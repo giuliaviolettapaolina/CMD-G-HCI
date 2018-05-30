@@ -1,3 +1,32 @@
+.text {
+    display: grid;
+    width: 80vw;
+    margin-left: 10vw;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: auto;
+}
+
+.text img{
+    width: 80vw;
+    grid-column: 1/4;
+    grid-row: 1/2;
+}
+
+#one{
+    width: 38vw;
+    grid-column: 1/2;
+    grid-row:3/4;
+}
+
+#two{
+    width: 38vw;
+    grid-column:2/3;
+    grid-row:3/4
+}
+
+span{
+    font-weight: 700;
+}
 /*--------------------------------------------------------------
 Accessibility
 --------------------------------------------------------------*/
