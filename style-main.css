@@ -57,20 +57,12 @@ h4 a{
 
 .text img{
     width: 80vw;
-    grid-column: 1/4;
-    grid-row: 1/2;
+    margin-left: 10vw;
 }
 
-#one{
-    width: 43vw;
-    grid-column: 1/2;
-    grid-row:3/4;
-}
-
-#two{
-    width: 43vw;
-    grid-column:2/3;
-    grid-row:3/4
+.text p{
+    width: 80vw;
+    margin-left: 10vw;
 }
 
 span{
