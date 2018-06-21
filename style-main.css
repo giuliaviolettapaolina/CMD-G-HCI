@@ -6,6 +6,27 @@
     width: 30%;
     margin: 2%;
 }
+
+.photo img{
+    width: 30%;
+    margin: 2%;
+    height: 30%;
+}
+
+.photoFour img{
+    width: 20%;
+    margin: 2%;
+    height: 20%;
+}
+
+.photoFour{
+    display: flex;
+}
+
+.photoFour video{
+    width: 20%;
+    margin: 2%;
+}
 .lab{
     width: 80vw;
     margin-left: 10vw;
