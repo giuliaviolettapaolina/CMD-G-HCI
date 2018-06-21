@@ -1,4 +1,11 @@
 
+.unity{
+    width: 80vw;
+    margin-left: 10vw;
+    display: flex;
+    justify-content: center;
+    
+}
 .product{
     width: 80vw;
     display: flex;
